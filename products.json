@@ -1,4 +1,6 @@
-[{
+{
+    "information":"При заказе от 1000 рублей доставка бесплатная",
+    "products":[{
     "image": "https://pp.userapi.com/c857628/v857628123/1b90b/Bwke5pG4e14.jpg",
    "id": 1 ,
    "title": "Урбеч черный лен",
@@ -71,4 +73,4 @@
     "count" :"1л",
     "isEstimatedPrice" : true,
     "presence": true,
-}]
+}]}
