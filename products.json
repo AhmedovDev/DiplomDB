@@ -8,5 +8,5 @@
     "price": 500,
     "count" : "1л",
     "isEstimatedPrice" : true,
-    "presence": true
+    "presence": false
 }]}
