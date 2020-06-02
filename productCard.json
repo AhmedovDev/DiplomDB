@@ -1,10 +1,10 @@
 {
-    @SerializedName("image") val images: List<String>,
-    @SerializedName("id") val id: Int,
-    @SerializedName("price") val price: Int,
-    @SerializedName("count") val count: String,
-    @SerializedName("isEstimatedPrice") val isEstimatedPrice: Boolean,
-    @SerializedName("presence") val presence: Boolean,
-    @SerializedName("description") val description: String,
-    @SerializedName("title") val title: String
+     "image": "https://pp.userapi.com/c857628/v857628123/1b90b/Bwke5pG4e14.jpg",
+   "id": 1 ,
+   "title": "Урбеч черный лен",
+    "price": 500,
+    "count" : "1л",
+    "isEstimatedPrice" : true,
+    "presence": true,
+    "description":"Урбе́ч — густая тягучая маслянистая масса, получаемая из растёртых поджаренных или просто высушенных семян льна, конопли, подсолнуха, тыквы, абрикосовых косточек или орехов. В традиционной кухне народов Дагестана и Чечни используется для приготовления одноимённого сладкого блюда (с мёдом и маслом), как питательное средство для поддержания сил, при лечении болезней."
 }
