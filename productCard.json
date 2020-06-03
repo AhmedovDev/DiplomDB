@@ -1,12 +1,11 @@
 {
-     "image":[ "https://pp.userapi.com/c857628/v857628123/1b90b/Bwke5pG4e14.jpg"
-              ,"https://pp.userapi.com/c857628/v857628123/1b90b/Bwke5pG4e14.jpg"
-              ,"https://pp.userapi.com/c857628/v857628123/1b90b/Bwke5pG4e14.jpg"],
+     "image":[ "https://gordonua.com/img/article/3823/99_tn.jpg"
+              ,"https://ferma-kornevo.ru/wp-content/uploads/2018/05/koziy_syr_gde_kupit.jpg"
+              ,"https://lh3.googleusercontent.com/proxy/W_RCDpuYuSTT-jVXZXWzBItdkOVUmw3MLVuzd98rgodCB_v7D70P8V3hEsxyf5cMXSKCQZMLjamEUQt8OViK25ITelg_7wjYcJcK1dkYfQDPaFfPr4kNYXryuAgIpdrV93g65PThb5v2kXmK2ZZ3FGXZHMU7ub-ZkkjpUirUtgU1xDdcEeynZ1qHrus6ZtQbEDByLnQI_k_jAhf5Jg"],
    "id": 1 ,
-   "title": "Урбеч черный лен",
-    "price": 500,
-    "count" : "1л",
-    "isEstimatedPrice" : true,
+   "title": "Козий сыр",
+    "price": 250,
+    "count" : "500гр",
+    "isEstimatedPrice" : false,
     "presence": true,
-    "description":"Урбе́ч — густая тягучая маслянистая масса, получаемая из растёртых поджаренных или просто высушенных семян льна, конопли, подсолнуха, тыквы, абрикосовых косточек или орехов. В традиционной кухне народов Дагестана и Чечни используется для приготовления одноимённого сладкого блюда (с мёдом и маслом), как питательное средство для поддержания сил, при лечении болезней."
-}
+    "description":"Наибольшим преимуществом козьего сыра является его насыщенность кальцием. Он отвечает за прочность костей, зубов, обеспечивает профилактику онкологических заболеваний и нормализует давление. Содержащиеся в козьем сыре пробиотики играют важную роль в работе желудочно-кишечного тракта, укрепляют иммунитет."}
