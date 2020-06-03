@@ -1,68 +1,53 @@
 {
         "categories": [
             {
-                "image": "https://pp.userapi.com/c857628/v857628123/1b90b/Bwke5pG4e14.jpg",
+                "image": "https://raw.githubusercontent.com/AhmedovDev/DiplomDB/master/fish.png",
                 "name": "Морепродукты",
                 "categoryId": 1
             },
                  {
+                "image": "https://raw.githubusercontent.com/AhmedovDev/DiplomDB/master/ginger.png",
+                "name": "Мясная продукция",
+                "categoryId": 1
+            },
+                 {
+                "image": "https://raw.githubusercontent.com/AhmedovDev/DiplomDB/master/careals.png",
+                "name": "Фрукты и овощи",
+                "categoryId": 1
+            },
+                 {
+                "image": "https://raw.githubusercontent.com/AhmedovDev/DiplomDB/master/cheese.png",
+                "name": "Молочная продукция",
+                "categoryId": 1
+            },
+                 {
+                "image": "https://raw.githubusercontent.com/AhmedovDev/DiplomDB/master/bottle.png",
+                "name": "Напитки",
+                "categoryId": 1
+            },
+                 {
+                "image": "https://raw.githubusercontent.com/AhmedovDev/DiplomDB/master/salt.png",
+                "name": "Специи",
+                "categoryId": 1
+            },
+                 {
+                "image": "https://raw.githubusercontent.com/AhmedovDev/DiplomDB/master/equipment.png",
+                "name": "Подарочная продукция",
+                "categoryId": 1
+            },
+              {
+                "image": "https://raw.githubusercontent.com/AhmedovDev/DiplomDB/master/equipment.png",
+                "name": "Одежда и украшения",
+                "categoryId": 1
+            },
+                 {
                 "image": "https://raw.githubusercontent.com/AhmedovDev/DiplomDB/master/shrimp.png",
-                "name": "Рыбное филе",
+                "name": "Экзотика",
                 "categoryId": 1
             },
                  {
-                "image": "https://pp.userapi.com/c857628/v857628123/1b90b/Bwke5pG4e14.jpg",
-                "name": "Рыбное филе",
-                "categoryId": 1
-            },
-                 {
-                "image": "https://pp.userapi.com/c857628/v857628123/1b90b/Bwke5pG4e14.jpg",
-                "name": "Рыбное филе",
-                "categoryId": 1
-            },
-                 {
-                "image": "https://pp.userapi.com/c857628/v857628123/1b90b/Bwke5pG4e14.jpg",
-                "name": "Рыбное филе",
-                "categoryId": 1
-            },
-                 {
-                "image": "https://pp.userapi.com/c857628/v857628123/1b90b/Bwke5pG4e14.jpg",
-                "name": "Рыбное филе",
-                "categoryId": 1
-            },
-                 {
-                "image": "https://pp.userapi.com/c857628/v857628123/1b90b/Bwke5pG4e14.jpg",
-                "name": "Рыбное филе",
-                "categoryId": 1
-            },
-                 {
-                "image": "https://pp.userapi.com/c857628/v857628123/1b90b/Bwke5pG4e14.jpg",
-                "name": "Рыбное филе",
-                "categoryId": 1
-            },
-                 {
-                "image": "https://pp.userapi.com/c857628/v857628123/1b90b/Bwke5pG4e14.jpg",
-                "name": "Рыбное филе",
-                "categoryId": 1
-            },
-                 {
-                "image": "https://pp.userapi.com/c857628/v857628123/1b90b/Bwke5pG4e14.jpg",
-                "name": "Рыбное филе",
-                "categoryId": 1
-            },
-                 {
-                "image": "https://pp.userapi.com/c857628/v857628123/1b90b/Bwke5pG4e14.jpg",
-                "name": "Рыбное филе",
-                "categoryId": 1
-            },
-                 {
-                "image": "https://pp.userapi.com/c857628/v857628123/1b90b/Bwke5pG4e14.jpg",
-                "name": "Рыбное филе",
-                "categoryId": 1
-            },
-                 {
-                "image": "https://pp.userapi.com/c857628/v857628123/1b90b/Bwke5pG4e14.jpg",
-                "name": "Товары под заказ",
+                "image": "https://raw.githubusercontent.com/AhmedovDev/DiplomDB/master/seaweed.png",
+                "name": "Другое",
                 "categoryId": 1
             }
         ],
