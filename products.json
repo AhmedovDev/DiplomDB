@@ -2,27 +2,36 @@
     "information":"При заказе от 1000 рублей доставка бесплатная",
     "products":[
         {
-    "image": "https://pp.userapi.com/c857628/v857628123/1b90b/Bwke5pG4e14.jpg",
+    "image": "https://img.povar.ru/main/78/41/05/65/domashnii_sir_v_multivarke-552845.JPG",
    "id": 1 ,
-   "title": "Урбеч черный лен",
-    "price": 500,
-    "count" : "1л",
-    "isEstimatedPrice" : true,
+   "title": "Сыр домашний",
+    "price": 250,
+    "count" : "500гр",
+    "isEstimatedPrice" : false,
     "presence": true
 },{
-    "image": "https://pp.userapi.com/c857628/v857628123/1b90b/Bwke5pG4e14.jpg",
+    "image": "https://ru.all.biz/img/ru/catalog/7146818.jpg",
    "id": 2 ,
-   "title": "Урбеч черный лен",
-    "price": 500,
-    "count" : "1л",
+   "title": "Молоко",
+    "price": 200,
+    "count" : "3л",
     "isEstimatedPrice" : true,
     "presence": true
 },{
-    "image": "https://pp.userapi.com/c857628/v857628123/1b90b/Bwke5pG4e14.jpg",
-   "id": 3 ,
-   "title": "Урбеч черный лен",
-    "price": 500,
-    "count" : "1л",
-    "isEstimatedPrice" : true,
+    "image": "https://prodmarket38.ru/wp-content/uploads/2018/05/%D0%A1%D0%BC%D0%B5%D1%82%D0%B0%D0%BD%D0%B0-%D0%A4%D0%B5%D1%80%D0%BC%D0%B5%D1%80%D1%81%D0%BA%D0%B0%D1%8F.jpg",
+    "id": 3 ,
+    "title": "Сметана",
+    "price": 100,
+    "count" : "300гр",
+    "isEstimatedPrice" : false,
+    "presence": true
+},
+    {
+    "image": "https://brjunetka.ru/wp-content/uploads/2016/06/77609345d84a8c973b1b0bdde7674796-523x443.jpg",
+    "id": 3 ,
+    "title": "Масло",
+    "price": 250,
+    "count" : "500гр",
+    "isEstimatedPrice" :true ,
     "presence": true
 }]}
