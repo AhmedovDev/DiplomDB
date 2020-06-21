@@ -8,6 +8,13 @@
    "time": "09:30",
 "date": "24.06.2020",
 "title": "Информация!",
- "information": "Ваш заказ в пути!",
+ "information": "Ваш заказ №320 в пути!",
 "targetId" : "1",
-"order_status": "onroad"}]
+"order_status": "onroad"},
+ {"type" : "stock",
+   "time": "12:20",
+"date": "25.06.2020",
+"title": "Акция!",
+ "information": "Акции на папахи, в предверии боя Хабиба Нурмагомедова!!",
+"targetId" : "7"}
+]
