@@ -1,0 +1,13 @@
+[{"type" : "stock",
+   "time": "12:20",
+"date": "20.06.2020",
+"title": "Акция!",
+ "information": "Распродажа мясной продукции! 20кг мяса по выгодной цене",
+"targetId" : "1"},
+{"type" : "status",
+   "time": "09:30",
+"date": "24.06.2020",
+"title": "Информация!",
+ "information": "Ваш заказ в пути!",
+"targetId" : "1",
+"order_status": "onroad"}]
